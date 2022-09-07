@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1662532089 source:c:\users\kim na min\documents\bai5\main.cpp
+	<iostream>
+	"Nguoi.h"
+	"Phong.h"
+	"PhongA.h"
+	"PhongB.h"
+	"PhongC.h"
+	"KhachSan.h"
+
+1662531260 c:\users\kim na min\documents\bai5\nguoi.h
+	<iostream>
+	"Phong.h"
+
+1662531095 c:\users\kim na min\documents\bai5\phong.h
+	<iostream>
+
+1662530939 c:\users\kim na min\documents\bai5\phonga.h
+	<iostream>
+	"Phong.h"
+
+1662530999 c:\users\kim na min\documents\bai5\phongb.h
+	<iostream>
+	"Phong.h"
+
+1662531004 c:\users\kim na min\documents\bai5\phongc.h
+	<iostream>
+	"Phong.h"
+
+1662531994 c:\users\kim na min\documents\bai5\khachsan.h
+	<iostream>
+	<vector>
+	"Nguoi.h"
+	"Phong.h"
+	"PhongA.h"
+	"PhongB.h"
+	"PhongC.h"
+

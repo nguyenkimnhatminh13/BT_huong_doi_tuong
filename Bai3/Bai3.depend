@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1662371555 source:c:\users\kim na min\documents\bai3\main.cpp
+	<iostream>
+	"ThiSinh.h"
+	"ThiSinhKhoiA.h"
+	"ThiSinhKhoiB.h"
+	"ThiSinhKhoiC.h"
+	"TuyenSinh.h"
+
+1662365143 c:\users\kim na min\documents\bai3\thisinh.h
+	<iostream>
+
+1662366841 c:\users\kim na min\documents\bai3\thisinhkhoia.h
+	<iostream>
+	"ThiSinh.h"
+
+1662367762 c:\users\kim na min\documents\bai3\thisinhkhoib.h
+	<iostream>
+	"ThiSinh.h"
+
+1662367834 c:\users\kim na min\documents\bai3\thisinhkhoic.h
+	<iostream>
+	"ThiSinh.h"
+
+1662371118 c:\users\kim na min\documents\bai3\tuyensinh.h
+	<iostream>
+	<vector>
+	"ThiSinh.h"
+	"ThiSinhKhoiA.h"
+	"ThiSinhKhoiB.h"
+	"ThiSinhKhoiC.h"
+

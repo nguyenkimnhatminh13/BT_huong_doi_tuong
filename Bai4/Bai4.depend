@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1662513440 source:c:\users\kim na min\documents\bai4\main.cpp
+	<iostream>
+	"Nguoi.h"
+	"HoGiaDinh.h"
+	"KhuPho.h"
+
+1662479754 c:\users\kim na min\documents\bai4\nguoi.h
+	<iostream>
+
+1662512495 c:\users\kim na min\documents\bai4\hogiadinh.h
+	<iostream>
+	<vector>
+	"Nguoi.h"
+
+1662512511 c:\users\kim na min\documents\bai4\khupho.h
+	<iostream>
+	<vector>
+	"HoGiaDinh.h"
+

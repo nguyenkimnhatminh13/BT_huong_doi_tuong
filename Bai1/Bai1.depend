@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1662088432 source:c:\users\kim na min\documents\bai1\main.cpp
+	<iostream>
+	<vector>
+	"CanBo.h"
+	"CongNhan.h"
+	"KySu.h"
+	"NhanVien.h"
+	"QuanLyCanBo.h"
+
+1662088040 c:\users\kim na min\documents\bai1\canbo.h
+	<iostream>
+
+1662090559 c:\users\kim na min\documents\bai1\congnhan.h
+	"CanBo.h"
+
+1662090582 c:\users\kim na min\documents\bai1\kysu.h
+	"CanBo.h"
+
+1662090589 c:\users\kim na min\documents\bai1\nhanvien.h
+	"CanBo.h"
+
+1662088231 c:\users\kim na min\documents\bai1\quanlycanbo.h
+	"CanBo.h"
+

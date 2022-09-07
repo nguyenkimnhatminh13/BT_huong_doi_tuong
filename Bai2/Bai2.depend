@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1662098155 source:c:\users\kim na min\documents\bai2\main.cpp
+	<iostream>
+	"TaiLieu.h"
+	"Sach.h"
+	"TapChi.h"
+	"Bao.h"
+	"QuanLySach.h"
+
+1662089597 c:\users\kim na min\documents\bai2\tailieu.h
+	<iostream>
+
+1662093497 c:\users\kim na min\documents\bai2\sach.h
+	<iostream>
+	"TaiLieu.h"
+
+1662093476 c:\users\kim na min\documents\bai2\tapchi.h
+	<iostream>
+	"TaiLieu.h"
+
+1662093880 c:\users\kim na min\documents\bai2\bao.h
+	<iostream>
+	"TaiLieu.h"
+
+1662098666 c:\users\kim na min\documents\bai2\quanlysach.h
+	<iostream>
+	"TaiLieu.h"
+	<vector>
+
