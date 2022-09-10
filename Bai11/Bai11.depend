@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1662637799 source:c:\users\kim na min\documents\bai11\main.cpp
+	<iostream>
+	"SoPhuc.h"
+
+1662639490 c:\users\kim na min\documents\bai11\sophuc.h
+	<iostream>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1662605974 source:c:\users\kim na min\documents\bai6\main.cpp
+	<iostream>
+	"HocSinh.h"
+	"TruongHoc.h"
+
+1662604489 c:\users\kim na min\documents\bai6\hocsinh.h
+	<iostream>
+
+1662606024 c:\users\kim na min\documents\bai6\truonghoc.h
+	<iostream>
+	<vector>
+	"HocSinh.h"
+
