@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1663036714 source:e:\github\bt_huong_doi_tuong\bai13\main.cpp
+	<iostream>
+	<vector>
+	"Certificate.h"
+	"Employee.h"
+	"Experience.h"
+	"Fresher.h"
+	"Intern.h"
+	"Date.h"
+	"EmployeeManagement.h"
+
+1663001266 e:\github\bt_huong_doi_tuong\bai13\certificate.h
+	<iostream>
+	"Date.h"
+
+1663035763 e:\github\bt_huong_doi_tuong\bai13\employee.h
+	<iostream>
+	<vector>
+	"Date.h"
+
+1663036798 e:\github\bt_huong_doi_tuong\bai13\experience.h
+	<iostream>
+	"Employee.h"
+
+1663036233 e:\github\bt_huong_doi_tuong\bai13\fresher.h
+	<iostream>
+	"Employee.h"
+
+1663036687 e:\github\bt_huong_doi_tuong\bai13\intern.h
+	<iostream>
+	"Employee.h"
+
+1662990006 e:\github\bt_huong_doi_tuong\bai13\date.h
+	<iostream>
+
+1663001845 e:\github\bt_huong_doi_tuong\bai13\employeemanagement.h
+	<iostream>
+	"Employee.h"
+	"Experience.h"
+	"Fresher.h"
+	"Intern.h"
+	<vector>
+
