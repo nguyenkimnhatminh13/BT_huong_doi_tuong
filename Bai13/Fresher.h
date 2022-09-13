@@ -32,7 +32,7 @@ public:
     string toString()
     {
         return "Fresher: {" + getGraduationDate().DateToString() + ";" + getGraduationRank() + ";" + getEducation() + "} || " + getId() + " | " + getFullName() + " | " + getBirthDay().DateToString() + " | " + getPhone() + " | " + getEmail() + "\n"
-        + "\t Certificate:" + showCertificate();
+        + "\t Certificate:" + showCertificate()+ "\n";
     }
 };
 

@@ -11,12 +11,32 @@ class Certificate
     string rankCer;
     Date dateCer;
 public:
+    Certificate()
+    {
+        idCer = '/0';
+        nameCer = '/0';
+        rankCer = '/0';
+        dateCer = Date();
+    }
     Certificate(string id,string name,string rk,Date dt)
     {
         idCer = id;
         nameCer = name;
         rankCer = rk;
         dateCer = dt;
+    }
+    friend istream & operator >> (istream &in, Certificate &cer)
+    {
+        cout << "-----------------------------" <<endl;
+        cout << "- ID of Certificate: "; in >> cer.idCer;
+        fflush(stdin);
+        cout << "- Name of Certificate: "; in >> cer.nameCer;
+        fflush(stdin);
+        cout << "- Rank of Certificate: "; in >> cer.rankCer;
+        fflush(stdin);
+        cout << "- Date of Certificate: "; in >> cer.dateCer;
+        cout << "-----------------------------" <<endl;
+        return in;
     }
     string CerToString()
     {

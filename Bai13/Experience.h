@@ -26,7 +26,7 @@ public:
     string toString()
     {
         return "Experience: {" + to_string(getExplnYear()) + ";" + getProSkill() + "} || "+ getId() + " | " + getFullName() + " | " + getBirthDay().DateToString() + " | " + getPhone() + " | " + getEmail() + "\n"
-        + "\t Certificate:" + showCertificate();
+        + "\t Certificate:" + showCertificate()+ "\n";
     }
 
 };

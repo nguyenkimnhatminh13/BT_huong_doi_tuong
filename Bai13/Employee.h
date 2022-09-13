@@ -47,6 +47,14 @@ public:
     {
         return dsCer;
     }
+    void NhapCertificate(int n)
+    {
+        Certificate cer;
+        for(int i = 0; i < n;i++){
+            cin >> cer;
+            dsCer.push_back(cer);
+        }
+    }
     void addCertificate(Certificate cer)
     {
         dsCer.push_back(cer);
@@ -62,7 +70,7 @@ public:
     virtual string toString()
     {
         return getId() + " | " + getFullName() + " | " + getBirthDay().DateToString() + " | " + getPhone() + " | " + getEmail() + "\n"
-        + "\t Certificate:" + showCertificate();
+        + "\t Certificate:" + showCertificate() + "\n";
     }
 };
 

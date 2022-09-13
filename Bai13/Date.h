@@ -28,9 +28,10 @@ public:
     }
     friend istream & operator >> (istream &in, Date &dt)
     {
-        cout << "Nhap ngay: "; in >> dt.day;
-        cout << "Nhap thang: "; in >> dt. month;
-        cout << "Nhap nam: "; in >> dt.year;
+        cout << "\n";
+        cout << "- Nhap ngay: "; in >> dt.day;
+        cout << "- Nhap thang: "; in >> dt. month;
+        cout << "- Nhap nam: "; in >> dt.year;
         return in;
     }
     string DateToString()
