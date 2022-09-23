@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1663776830 source:c:\users\rainy\documents\ex_client\main.cpp
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+

@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1663767980 source:c:\users\rainy\documents\carogameproject\main.cpp
+	<iostream>
+	"./model/Point.h"
+	"./model/Player.h"
+	"./model/CaroBoard.h"
+	"./view/CaroBoardView.h"
+	"./controller/CaroController.h"
+	"LichSuDau.h"
+
+1663720874 c:\users\rainy\documents\carogameproject\model\point.h
+
+1663751385 c:\users\rainy\documents\carogameproject\model\player.h
+	<iostream>
+
+1663721035 c:\users\rainy\documents\carogameproject\model\caroboard.h
+	<vector>
+	<iostream>
+
+1663721167 c:\users\rainy\documents\carogameproject\view\caroboardview.h
+	<iostream>
+	<fstream>
+	"../model/Player.h"
+
+1663736480 c:\users\rainy\documents\carogameproject\controller\carocontroller.h
+	<iostream>
+	<vector>
+	<windows.h>
+	"../model/Player.h"
+	"../model/Point.h"
+	"../model/CaroBoard.h"
+	"../view/CaroBoardView.h"
+
+1663768652 c:\users\rainy\documents\carogameproject\lichsudau.h
+	<iostream>
+	<vector>
+	"./model/Player.h"
+
