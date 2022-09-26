@@ -14,3 +14,11 @@ name: minh
 Win: 0
 Draw: 0
 Lose: 1
+name: kim
+Win: 1
+Draw: 0
+Lose: 0
+name: minh
+Win: 0
+Draw: 0
+Lose: 1
